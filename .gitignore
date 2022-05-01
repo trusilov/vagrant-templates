@@ -1,0 +1,3 @@
+#   GENERAL VAGRANT IGNORE
+.vagrant/
+.vagrant/*
