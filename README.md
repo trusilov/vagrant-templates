@@ -6,13 +6,13 @@
 
 
 ## Vagrant commands cheatsheet
-| Description |   |
+| Description | Command |
 | ------------ | ------------ |
 | Start or create a VM | `vagrant up`  |
 | Restarting the VM | `vagrant reload` |
 | Stops the VM | `vagrant halt`  |
 | Removes the VM | `vagrant destroy`  |
-| "Freezes" the VM* |  `vagrant suspend `|
+| "Freezes" the VM |  `vagrant suspend `|
 | Lists all previously created VMs in the host system  | `vagrant global-status`  |
 | View VM status | `vagrant status` |
 
